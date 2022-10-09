@@ -1,0 +1,1 @@
+public enum NOTICE_TYPE { OVERFILLED, NO_RES }
